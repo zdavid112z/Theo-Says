@@ -4,4 +4,4 @@ A game similar to Simon Says, but with lasers. Similar to Simon Says, when butto
 
 [Video Presentation with gameplay](https://www.youtube.com/watch?v=tnsvUFoqALQ)
 
-[Documentation](https://www.youtube.com/watch?v=tnsvUFoqALQ)
+[Documentation](https://ocw.cs.pub.ro/courses/pm/prj2021/apredescu/theo-says)
